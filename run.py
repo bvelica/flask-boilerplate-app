@@ -2,7 +2,7 @@
 from app import create_app
 from dotenv import load_dotenv
 
-# the path to your .env file
+### The path to your .env file
 load_dotenv('.env')
 
 
